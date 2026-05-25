@@ -1,4 +1,4 @@
-OLLAMA_MODEL = "llama3.2:3b-instruct-q4_K_M"
+OLLAMA_MODEL = "phi3:mini"
 WHISPER_MODEL = "base"
 VOICE_TYPE = "en-IE-EmilyNeural"
 

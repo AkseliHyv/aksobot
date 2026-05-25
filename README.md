@@ -21,7 +21,6 @@ Install and start Ollama, then pull the model:
 
 ```bash
 ollama pull phi3:mini
-ollama serve
 ```
 
 Run:
