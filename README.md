@@ -48,3 +48,4 @@ python main.py
 ## Config
 
 Settings like model name, voice, sample rate, and silence thresholds live in `config.py`.
+Models can be easily switched out by installing one from Ollama via ```ollama pull model_name``` and swapping it in the config
