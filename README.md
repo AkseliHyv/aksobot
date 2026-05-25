@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Install and start Ollama, then pull the model:
 
 ```bash
-ollama pull phi3:mini
+ollama pull llama3.2:3b-instruct-q4_K_M
 ```
 
 Run:

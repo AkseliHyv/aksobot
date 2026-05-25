@@ -120,7 +120,7 @@ while True:
             continue
 
         print("You:", text)
-        conversation_history.append({'role': 'user', 'content': text})
+        conversation_history.append({'role': 'user', 'content': (text)})
 
         if len(conversation_history) > 20:
             conversation_history = conversation_history[-20:]
