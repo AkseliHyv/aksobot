@@ -1,6 +1,6 @@
 # milo-robot
 
-Milo is a voice-based dekstop assistant and to-be-robot that listens, thinks, and talks back. Built in Python, designed to eventually live inside a physical robot running on a Raspberry Pi.
+Milo is a voice-based robot that listens, thinks, and talks back. Built in Python, designed to eventually live inside a physical robot running on a Raspberry Pi.
 
 ## How It Works
 
