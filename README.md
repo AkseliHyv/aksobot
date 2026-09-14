@@ -1,6 +1,6 @@
-# milo-robot
+# Aksobot
 
-Milo is a voice-based robot that listens, thinks, and talks back. Built in Python, designed to eventually live inside a physical robot running on a Raspberry Pi.
+Aksobot is a voice-based robot that listens, thinks, and talks back. Built in Python, designed to eventually live inside a physical robot running on a Raspberry Pi.
 
 ## How It Works
 
